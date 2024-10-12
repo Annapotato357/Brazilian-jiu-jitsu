@@ -149,6 +149,12 @@ footer a:active, footer a:hover {
     .header h1 {
         font-size: 4rem;
     }
+    .copy
+{
+    width: 30rem;
+    margin: auto;
+
+}
     .topmenu
     {
        flex-direction: row;
