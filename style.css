@@ -19,6 +19,7 @@ header h1{
 }
 .copy
 {
+    text-align: center;
     width: 30rem;
     margin: auto;
 
