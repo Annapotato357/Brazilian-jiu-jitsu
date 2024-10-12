@@ -19,7 +19,7 @@ header h1{
 }
 .copy
 {
-    text-align: center;
+
     width: 30rem;
     margin: auto;
 
@@ -152,6 +152,7 @@ footer a:active, footer a:hover {
     }
     .copy
     {
+        text-align: center;
         width: 30rem;
         margin: auto;
     
